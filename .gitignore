@@ -148,3 +148,6 @@ dmypy.json
 # For manim
 /videos
 /custom_config.yml
+
+bio3049_ode/media
+bio3049_ode/__pycache__
